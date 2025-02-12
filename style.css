@@ -17,3 +17,36 @@ body{
 img{
     border-radius: 28px;
 }
+
+h1{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+head{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 16px;
+    font-style:normal;
+}
+sub{
+    font-size: 16px;
+    font-style: italic;
+}
+
+h1,h2{
+    color:#1b1b1b
+}
